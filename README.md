@@ -4,15 +4,19 @@
 <h3>Inicializando o projeto: </h3>
 
 - <h3>Instalações de pacotes realizadas:</h3>
--- <h3>Entity Framework utilizando o SQL Server </h3>
-```
-Install-Package Microsoft.EntityFrameworkCore.SqlServer
-```
--- <h3>Ferramentas do Entity Framework para utilizar as Migrations</h3>
-```
-Install-Package Microsoft.EntityFrameworkCore.Tools
-```
--- <h3> Adicionando Migration (Comandos abaixo):</h3>
-<h4> Add-Migration InitialCreate</h4>
-<h4> Update-Database</h4>
-<h4>Add-Migration TabelaProduto</h4>
+<ul>
+	<li>Entity Framework utilizando o SQL Server</li>
+		<ul>
+			<li>Install-Package Microsoft.EntityFrameworkCore.SqlServer</li>
+		</ul>
+	<li>Ferramentas do Entity Framework para utilizar as Migrations</li>
+	<ul>
+		<li>Install-Package Microsoft.EntityFrameworkCore.Tools</li>
+	</ul>
+</ul>
+- <h3> Adicionando Migration (Comandos abaixo):</h3>
+<ul>
+	<li>Add-Migration InitialCreate</li>
+	<li>Update-Database</li>
+	<li>Add-Migration TabelaProduto</li>
+</ul>
