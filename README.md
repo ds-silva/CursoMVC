@@ -2,7 +2,7 @@
 
 <h4>Informações do Projeto </h4>
 <ul>
-	<li>.NET Core Version: 4.1</li>
+	<li>.NET Core Version: 3.1</li>
 </ul>
 
 <h4>Inicializando o projeto: </h4>
