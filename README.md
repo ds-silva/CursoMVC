@@ -4,7 +4,7 @@
 <h3>Inicializando o projeto: </h3>
 
 - <h3>Instalações de pacotes realizadas:</h3>
-<h3>Ent Framework utilizando o SQL Server </h3>
+-- <h3>Ent Framework utilizando o SQL Server </h3>
 ```
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
 ```
