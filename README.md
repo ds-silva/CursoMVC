@@ -8,3 +8,4 @@ Instalações de pacotes realizadas:
 Adicionando Migration
 	Add-Migration InitialCreate
 	Update-Database
+	Add-Migration TabelaProduto
