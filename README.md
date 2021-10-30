@@ -4,3 +4,7 @@ Instalações de pacotes realizadas:
 
 	Ferramentas do Entity Framework para utilizar as Migrations
 	Install-Package Microsoft.EntityFrameworkCore.Tools
+
+Adicionando Migration
+	Add-Migration InitialCreate
+	Update-Database
