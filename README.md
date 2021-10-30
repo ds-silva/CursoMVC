@@ -1,5 +1,5 @@
-Sistema de Cadastro com ASP Web .NET Core
-.NET Core Version: 3.1
+Sistema de Cadastro com ASP Web .NET Core <br/>
+.NET Core Version: 3.1 <br/>
 
 Inicializando o projeto:
 
