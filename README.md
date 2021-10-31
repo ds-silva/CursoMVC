@@ -41,6 +41,6 @@
 	<ul>
 		<li>.NET Core Version: 3.1</li>
 		<ul>
-			<li>none</li>
+			<li>Moq Version: 4.16.1</li>
 		</ul>
 	</ul>
