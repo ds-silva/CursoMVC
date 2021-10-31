@@ -34,7 +34,3 @@
 			<li>Debug - Lauch Browser: swagger</li>
 		</ul>
 	</ul>
-<h4> Adicionando Dependências (Comandos abaixo):</h4>
-<ul>
-	<li>Install-Package Microsoft.EntityFrameworkCore.Design</li>
-</ul>
