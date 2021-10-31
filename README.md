@@ -26,11 +26,15 @@
 
 <h1>API em ASP .NET Core Web App</h1> <br/>
 <h4>Informações do Projeto</h4>
-<ul>
-	<li>.NET Core Version: 3.1</li>
-	<li>Swagger Version: 5.0.0</li>
 	<ul>
-		<li>Build - XML Documentation: Enabled</li>
-		<li>Debug - Lauch Browser: swagger</li>
+		<li>.NET Core Version: 3.1</li>
+		<li>Swagger Version: 5.0.0</li>
+		<ul>
+			<li>Build - XML Documentation: Enabled</li>
+			<li>Debug - Lauch Browser: swagger</li>
+		</ul>
 	</ul>
+<h4> Adicionando Dependências (Comandos abaixo):</h4>
+<ul>
+	<li>Install-Package Microsoft.EntityFrameworkCore.Design</li>
 </ul>

@@ -66,15 +66,11 @@ C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Syst
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -158,3 +154,5 @@ C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razo
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
