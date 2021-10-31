@@ -1,4 +1,5 @@
-<h1>Sistema de Cadastro com ASP Web .NET Core</h1> <br/>
+<h1>Solução de cadastro com .NET Core</h1><br/>
+<h4>A Solução contém um sistema em ASP.NET Core Web App com MVC, uma ASP.NET Core Web API, e um projeto de testes com xUnit.</h4><br/>
 
 <h4>Informações do Projeto</h4>
 <ul>
@@ -32,5 +33,14 @@
 		<ul>
 			<li>Build - XML Documentation: Enabled</li>
 			<li>Debug - Lauch Browser: swagger</li>
+		</ul>
+	</ul>
+
+<h1>Projeto de Testes com xUnit</h1> <br/>
+<h4>Informações do Projeto</h4>
+	<ul>
+		<li>.NET Core Version: 3.1</li>
+		<ul>
+			<li>none</li>
 		</ul>
 	</ul>
