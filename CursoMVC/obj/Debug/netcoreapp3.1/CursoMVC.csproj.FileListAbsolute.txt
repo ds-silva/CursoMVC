@@ -8,8 +8,9 @@ C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Curs
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\CursoMVC.pdb
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\CursoMVC.Views.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\CursoMVC.Views.pdb
-C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -23,7 +24,9 @@ C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Micr
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
@@ -47,7 +50,6 @@ C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Micr
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
 C:\Users\david.silva\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll

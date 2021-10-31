@@ -2648,6 +2648,23 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "CursoMVC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.20",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.5"
+        },
+        "compile": {
+          "bin/placeholder/CursoMVC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CursoMVC.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -8553,10 +8570,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "CursoMVC/1.0.0": {
+      "type": "project",
+      "path": "../CursoMVC/CursoMVC.csproj",
+      "msbuildProject": "../CursoMVC/CursoMVC.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "CursoMVC >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.20",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.20",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.5",
@@ -8596,7 +8619,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\david.silva\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj": {
+              "projectPath": "C:\\Users\\david.silva\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
