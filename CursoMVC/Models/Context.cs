@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace CursoMVC.Models
 {
@@ -9,6 +10,11 @@ namespace CursoMVC.Models
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=Cursomvc;Integrated Security=True");
+        }
+
+        public void SetModified(Categoria categoria)
+        {
+            throw new NotImplementedException();
         }
     }
 }

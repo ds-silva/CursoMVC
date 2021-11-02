@@ -1,0 +1,5 @@
+C:\Users\david.silva\source\repos\CursoMVC\CursoTest\obj\Debug\netcoreapp3.1\CursoTest.csproj.AssemblyReference.cache
+C:\Users\david.silva\source\repos\CursoMVC\CursoTest\obj\Debug\netcoreapp3.1\CursoTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.silva\source\repos\CursoMVC\CursoTest\obj\Debug\netcoreapp3.1\CursoTest.AssemblyInfoInputs.cache
+C:\Users\david.silva\source\repos\CursoMVC\CursoTest\obj\Debug\netcoreapp3.1\CursoTest.AssemblyInfo.cs
+C:\Users\david.silva\source\repos\CursoMVC\CursoTest\obj\Debug\netcoreapp3.1\CursoTest.csproj.CoreCompileInputs.cache
