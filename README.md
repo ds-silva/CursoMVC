@@ -44,3 +44,9 @@
 			<li>Moq Version: 4.16.1</li>
 		</ul>
 	</ul>
+
+<h1>Publicando APP na Nuvem da Azure</h1> <br/>
+<h4>Necessário para o funcionamento das Migrations</h4>
+	<ul>
+		<li>dotnet tool install --global --version 3.0.0 dotnet-ef</li>
+	</ul>
